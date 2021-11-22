@@ -1,0 +1,27 @@
+- profile:
+  initials: JV
+  name: Jayanth Vikash S
+  profession: Undergraduate Student
+  image: images/profile.jpg
+  location: Hosur, India
+  relocation: false
+  company: Amrita School of Engineering, Chennai
+  for_hire: true
+  focus: UI Designing | App Development
+  focus_url: https://github.com/JayanthVikashS
+  about: I'm an undergraduate student, pursuing my Bachelor's in Technology in Computer Science and Engineering at Amrita School of Engineering, Chennai. My goal is to work in an organization where I can exhibit my full potential and try to reach 
+    the new height for the company and myself. I'm interested in UI/UX designing and App Development. 
+
+  skills:
+    - C Programming
+    - HTML / CSS
+    - Java
+  tools:
+    - Bootstrap
+    - Android Studio
+    - Figma, Adobe Xd
+  budget:
+    currency: ₹
+    min: 20000
+    max: 100000
+    default: 10000

@@ -1,0 +1,21 @@
+- name: Genie
+  url: https://github.com/TechieNK/Genie
+  description: Deep Learning powered image credibility checker
+  status: live
+  tags:
+    - Python
+    - Django
+    - PyTorch
+    - OpenCV
+  icon: github
+
+- name: Days
+  url: https://github.com/Techipeeyon/Days
+  description: An android app for maintaining digital diaries which can hold photos, videos and textual comments
+  status: live
+  tags:
+    - Java
+    - Android Studio
+    - XML
+    - Firebase
+  icon: github
