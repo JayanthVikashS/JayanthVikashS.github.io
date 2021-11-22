@@ -8,6 +8,7 @@
     - PyTorch
     - OpenCV
   icon: github
+  image:
 
 - name: Days
   url: https://github.com/Techipeeyon/Days
@@ -19,3 +20,4 @@
     - XML
     - Firebase
   icon: github
+  image:

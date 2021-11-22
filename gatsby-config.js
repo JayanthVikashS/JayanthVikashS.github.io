@@ -5,6 +5,7 @@ module.exports = {
     title: "Jayanth Vikash",
     formspreeEndpoint: "https://formspree.io/f/{your-id}",
   },
+  pathPrefix: "/",
   plugins: [
     {
       resolve: "@wkocjan/gatsby-theme-intro",
