@@ -16,5 +16,8 @@ module.exports = {
         theme: "gh-inspired",
       },
     },
+    {
+      resolve: "gatsby-plugin-sharp"
+    }
   ],
 }
